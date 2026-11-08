@@ -1,13 +1,10 @@
 # It's me, dagadeta
 
 <div align="center">
-  <bold>I mostly work on <a href="https://gitlab.com/dagadeta">GitLab</a> now</bold>
-  <br>
-  <a href="https://gitlab.com/dagadeta">
-    <img src="https://about.gitlab.com/images/press/gitlab-logo-200-rgb.svg" width="150" alt="GitLab">
-  </a>
-  <br><br>
-  🌳  Anyways, here are my github stats  🌳
-  <br><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dagadeta&theme=github_dark" alt="GitHub Stats" />
+    <br>
+    🌳  look at my github stats  🌳
+    <br><br>
+    <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+    <br><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dagadeta&exclude=g-code&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&icon_color=cba6f7&chart_color=cba6f7" alt="GitHub Stats" />
 </div>
